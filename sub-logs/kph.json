@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "Ninjastrikers",
+    "email": "leonhart@ninjastrikers.net"
+  },
+
+  "target": {
+    "A": {
+       "name": "kph", 
+       "value": "104.248.145.100"
+     }
+  },
+
+  "proxied": false
+}
